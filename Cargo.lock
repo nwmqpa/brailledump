@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "brailledump"
+name = "brailledump-cli"
 version = "0.1.0"

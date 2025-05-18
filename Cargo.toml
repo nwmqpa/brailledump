@@ -1,5 +1,5 @@
 [package]
-name = "brailledump"
+name = "brailledump-cli"
 description = "Dump binary data in braille format"
 license = "WTFPL"
 homepage = "https://github.com/nwmqpa/brailledump"
