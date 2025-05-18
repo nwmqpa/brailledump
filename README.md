@@ -6,13 +6,13 @@ This is a simple project aimed at transcribing blobs of binary data using the br
 ## How to install
 
 ```
-cargo install brailledump
+cargo install brailledump-cli
 ```
 
 ## How to use
 
 ```
-; echo "Hello World" | brailledump
+; echo "Hello World" | brailledump-cli
 00000000| ⠘⠒⠁⠂ ⠘⠃⠚⠈ ⠘⠃⠙⠀ ⠈⠁⠋⠂ ⠈⠁⠉⠉ ⠀⠁⠀⠀ ⠈⠈⠈⠉ ⠈⠁⠉⠉
 ```
 
