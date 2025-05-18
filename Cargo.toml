@@ -1,0 +1,12 @@
+[package]
+name = "brailledump"
+description = "Dump binary data in braille format"
+license = "WTFPL"
+homepage = "https://github.com/nwmqpa/brailledump"
+repository = "https://github.com/nwmqpa/brailledump"
+version = "0.1.0"
+edition = "2024"
+keywords = ["braille", "dump", "binary", "data", "hexdump"]
+categories = ["command-line-utilities", "development-tools", "encoding", "visualization"]
+
+[dependencies]
